@@ -41,6 +41,7 @@ Conclusion :
 
 ### Presentation layer
 
+![HBNB0](reviewsubmission.png)
 Components :
 
 - Website: The user-facing interface that enables interaction with the system through a graphical UI.

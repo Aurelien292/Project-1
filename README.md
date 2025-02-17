@@ -50,5 +50,6 @@ Responsibilities :
 
 - Handles user interactions and requests.
 - Communicates with the Business Logic Layer through the API.
+### Presentation layer
 
 ![alt text](./HBNBV3.png)

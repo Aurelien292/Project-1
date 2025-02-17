@@ -37,7 +37,7 @@ Conclusion :
 - This layer is kept distinct to enable multiple clients to interact with the system while ensuring flexibility. The API ensures standardized communication with the backend.
 ![HBNB](./HbnbV4.png)
 
-![HBNB1](./HBNBV3.png)
+![HBNB1](HBNBV3.png)
 
 ### Presentation layer
 
